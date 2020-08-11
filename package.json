@@ -1,0 +1,52 @@
+{
+  "_from": "git+https://github.com/findmate/cordova-plugin-jitsi-meet.git",
+  "_id": "cordova-plugin-jitsi-meet@1.0.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-jitsi-meet",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/findmate/cordova-plugin-jitsi-meet",
+    "rawSpec": "https://github.com/findmate/cordova-plugin-jitsi-meet",
+    "saveSpec": "git+https://github.com/findmate/cordova-plugin-jitsi-meet.git",
+    "fetchSpec": "https://github.com/findmate/cordova-plugin-jitsi-meet.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/findmate/cordova-plugin-jitsi-meet.git#86e8749cba604cc7e47885d1916d7a0d000f8725",
+  "_spec": "https://github.com/findmate/cordova-plugin-jitsi-meet",
+  "_where": "/Users/sreenadhkondru/userfolder/work/coding/currenttech/myapps",
+  "author": {
+    "name": "gaganinvic"
+  },
+  "bugs": {
+    "url": "https://github.com/mnill/cordova-plugin-jitsi-meet/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-jitsi-meet",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "\n       This is plugin for Jitsi Meet calling service!\n    ",
+  "homepage": "https://github.com/mnill/cordova-plugin-jitsi-meet#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Auris",
+  "name": "cordova-plugin-jitsi-meet",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnill/cordova-plugin-jitsi-meet.git"
+  },
+  "version": "1.0.5"
+}
